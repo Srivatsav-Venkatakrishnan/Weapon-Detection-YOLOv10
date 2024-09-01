@@ -61,6 +61,8 @@ python test_video.py --video_path="C:/Users/sriva/Downloads/weapons_detection/Kn
 6. **Model and Weights:**
 ```
 The model used for detection is based on YOLOv10s, optimized with the OpenVINO toolkit for better performance. Ensure the weights file (best.xml) is correctly linked in the commands above.
+
+To use the model in real time on your local environment download the model weights zip file and change the model weights path in test.py code and run to get the final output video.
 ```
 
 7. **Reference** :
