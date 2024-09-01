@@ -5,7 +5,7 @@ The system is designed to accurately identify and classify weapons in live video
 This repository contains the implementation of a real-time weapon detection system using the YOLOv10s model. The system is designed to detect and identify weapons in live video feeds or static images, providing a powerful tool for enhancing security in various environments.
 
 ## Dataset
-```
+
 Here's the link to the dataset - https://dasci.es/transferencia/open-data/24705/
 
 ## Features
