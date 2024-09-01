@@ -8,6 +8,10 @@ This repository contains the implementation of a real-time weapon detection syst
 
 Here's the link to the dataset - https://dasci.es/transferencia/open-data/24705/
 
+| **Database**            | **Image** | **Pistol** | **Knife** | **Smartphone** | **Bill** | **Purse** | **Card** |
+|-------------------------|-----------|------------|-----------|----------------|----------|-----------|----------|
+| Sohas_Weapon_Detection   | 3255      | 1425       | 1825      | 575            | 425      | 530       | 300      |
+
 ## Features
 
 - **Real-Time Processing**: Efficiently processes video streams with minimal delay.
