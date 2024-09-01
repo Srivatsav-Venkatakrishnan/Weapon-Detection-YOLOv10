@@ -46,10 +46,9 @@ python test_video.py --video_path="C:/Users/sriva/Downloads/weapons_detection/Kn
 6. **Model and Weights:**
 The model used for detection is based on YOLOv10s, optimized with the OpenVINO toolkit for better performance. Ensure the weights file (best.xml) is correctly linked in the commands above.
 
-7. **Contributing**
-If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes. We appreciate all contributions!
-
-8. **License**
+7. **Reference** :
+   - Sci2s. (n.d.). Weapons detection. University of Granada. Retrieved September 1, 2024, from https://sci2s.ugr.es/weapons-detection
+9. **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
