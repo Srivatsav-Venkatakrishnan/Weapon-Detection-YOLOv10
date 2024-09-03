@@ -6,7 +6,7 @@ This repository contains the implementation of a real-time weapon detection syst
 
 ## Dataset
 
-Here's the link to the dataset - https://dasci.es/transferencia/open-data/24705/
+Here's the link to the dataset - https://www.kaggle.com/datasets/srivatsavvenki/sohas-weapon-detection
 
 | **Database**            | **Image** | **Pistol** | **Knife** | **Smartphone** | **Bill** | **Purse** | **Card** |
 |-------------------------|-----------|------------|-----------|----------------|----------|-----------|----------|
@@ -64,11 +64,17 @@ The model used for detection is based on YOLOv10s, optimized with the OpenVINO t
 
 To use the model in real time on your local environment download the model weights zip file and change the model weights path in test.py code and run to get the final output video.
 ```
+7. **Result/Output Video**
 
-7. **Reference** :
-```
+
+   Here's the link to the output videon on my Youtube Channel - https://www.youtube.com/watch?v=R1nj2Z53_8E
+
+
+
+8. **Reference** :
+
    - Sci2s. (n.d.). Weapons detection. University of Granada. Retrieved September 1, 2024, from https://sci2s.ugr.es/weapons-detection
-```
+
 
 9. **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
