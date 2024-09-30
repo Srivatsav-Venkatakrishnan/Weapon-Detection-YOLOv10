@@ -38,7 +38,7 @@ Before you begin, ensure you have met the following requirements:
 pip install -r requirements.txt
 ```
 
-4. **Prepare Your Model:**
+3. **Prepare Your Model:**
 ```
 Ensure that your YOLOv10s model is converted to the OpenVINO format and that the .xml and .bin files are in place.
 ```
